@@ -1,5 +1,5 @@
-import React from'react'
-import RestBasic from'./rest-basic'
+import React from 'react'
+import FormGet from './form-get'
 export default function App() {
- return<RestBasic/>
+return <FormGet/>
 }
